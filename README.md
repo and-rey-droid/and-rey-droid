@@ -2,7 +2,7 @@
 📫 Контакты:
 - @ amdrey@ya.ru
 
-- <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20" height="20" alt="telegram" />  <a href="https://t.me/AK99uha">AK99uha</a>
+- <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="17" height="17" alt="telegram" />  <a href="https://t.me/AK99uha">AK99uha</a>
 ---
 
 ### ℹ️ Обо мне:
