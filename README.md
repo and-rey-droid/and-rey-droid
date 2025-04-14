@@ -1,6 +1,6 @@
 # Добрый день, меня зовут Андрей Кочетков.
 📫 Контакты:
-- Email: amdrey@ya.ru
+- @ amdrey@ya.ru
 
 - <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20" height="20" alt="telegram" />  <a href="https://t.me/AK99uha">AK99uha</a>
 ---
