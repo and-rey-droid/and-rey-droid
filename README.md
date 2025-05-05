@@ -15,9 +15,10 @@
 - ✨Базовые знания HTML, CSS, XML, JSON.
 - 🕸Тестирование веб приложений: Devtools, Postman, SoapUI
 - 📱Тестирование мобильных приложений: Android-Studio, Charles-proxy, Fiddler
+- 📊Нагрузочное тестирование: Apache Jmeter
 - 📑Работа с базами данных: MySQL
 - ✨Работа с системами контроля версий (VCS): GIT
-- 💻Работа с ком. строкой: BASH
+- 💻Работа с ком. строкой: BASH, командная строка Windows
 ---
 📫 Контакты:
 - @ amdrey@ya.ru
