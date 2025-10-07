@@ -22,12 +22,10 @@
 - 💻Работа с ком. строкой: BASH, командная строка Windows
 --- 
 ### Практика:
-Тестирование сайта https://guru.qahacking.ru/
-<br> Исследовательское тестирование, метод черного ящика
-<br> Баг репорт (Экспорт из YouTrack)
-<br> https://docs.google.com/spreadsheets/d/11dDdJIkXbmxpQUBtJx4LAAgUlBCo4hJfHjBEVG8NmUc/edit?usp=sharing
-<br> Папка с фото и видео вложениями к каждому Багу (Номера файлов соответствуют ID номеру задачи в таблице)
-<br> https://drive.google.com/drive/folders/10gXSdfAho4qlzKASuH48tK-q2rOnTStG?usp=sharing
+Тестирование сайта <a href="https://guru.qahacking.ru/">guru.qahacking.ru<a/>
+- <a href="https://docs.google.com/spreadsheets/d/11dDdJIkXbmxpQUBtJx4LAAgUlBCo4hJfHjBEVG8NmUc/edit?usp=sharing">Баг репорт (Экспорт в Google docs из YouTrack)</a>
+- <a href="https://drive.google.com/drive/folders/10gXSdfAho4qlzKASuH48tK-q2rOnTStG?usp=sharing">Папка с фото и видео вложениями к каждому Багу (Номера файлов соответствуют ID номеру задачи в таблице)<a/>
+ 
 
 ---
 📫 Контакты:
