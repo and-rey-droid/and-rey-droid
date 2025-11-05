@@ -4,7 +4,7 @@
 Я начинающий тестировщик. 
 <br> Окончил курс Артёма Русова: <a href="https://stepik.org/course/171826/promo#toc">"Тестирование ПО с нуля. Теория + Практика"</a> с отличием.
 <br> Получил <a href="https://stepik.org/cert/2815604">"Сертификат об окончании курса"</a>
-<br> Моё  <a href="https://drive.google.com/file/d/1apVJZ8-PYrg19_ay8bFHfEzd4ao6tnOE/view?usp=drive_link">резюме</a>.
+<br> <a href="https://drive.google.com/file/d/1apVJZ8-PYrg19_ay8bFHfEzd4ao6tnOE/view?usp=drive_link"> Моё резюме</a>.
 <br> * До 2024 года работал в роли - Системный администратор в <a href="https://uc-osnovanie.ru">"Удостоверяющем центре “Основание"</a>
 
 ---
