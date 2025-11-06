@@ -22,14 +22,12 @@
 - ✨Работа с системами контроля версий (VCS): GIT
 - 💻Работа с ком. строкой: BASH, командная строка Windows
 --- 
-### Практика:</a>
+### Практика:
 
 Тестирование сайта <a href="https://guru.qahacking.ru/">guru.qahacking.ru<a/>
-- <a href="https://docs.google.com/spreadsheets/d/11dDdJIkXbmxpQUBtJx4LAAgUlBCo4hJfHjBEVG8NmUc/edit?usp=sharing">Баг репорт (Экспорт в Google docs из YouTrack)</a>
-- <a href="https://drive.google.com/drive/folders/10gXSdfAho4qlzKASuH48tK-q2rOnTStG?usp=sharing">Папка с фото и видео вложениями к каждому Багу (Номера файлов соответствуют ID номеру задачи в таблице)<a/>
- 
+<br> <a href="https://docs.google.com/spreadsheets/d/11dDdJIkXbmxpQUBtJx4LAAgUlBCo4hJfHjBEVG8NmUc/edit?usp=sharing">Баг репорт (Экспорт в Google docs из YouTrack)</a>
 
 ---
-📫 Контакты:
+### Контакты: 📫
 - @ amdrey@ya.ru
 - <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="17" height="17" alt="telegram" />  <a href="https://t.me/AK99uha">AK99uha</a>
